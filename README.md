@@ -7,10 +7,10 @@ I'm a software developer who is passionate about blockchain, backend development
 [![Rust](https://img.shields.io/badge/Rust-gray?logo=rust&logoColor=black)](https://www.rust-lang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript&logoColor=blue)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-gray?logo=python&logoColor=yellow)](https://www.python.org/)
-[![React](https://img.shields.io/badge/React-lightgray?logo=react&logoColor=blue)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-darkgray?logo=nodedotjs&logoColor=darkgreen)](https://nodejs.org/en/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=blue)](https://www.docker.com/)
+[![React](https://img.shields.io/badge/React-gray?logo=react&logoColor=blue)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-gray?logo=nodedotjs&logoColor=darkgreen)](https://nodejs.org/en/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-gray?logo=docker&logoColor=blue)](https://www.docker.com/)
 
 
 ### 🔥 Github Stats
