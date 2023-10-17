@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leonzchang)&nbsp;&nbsp;[![followers](https://img.shields.io/github/followers/leonzchang?label=Followers&style=social)](https://github.com/leonzchang?tab=followers)&nbsp;&nbsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/li-chang-b7454521b/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=black)](mailto:bellerophon00530@gmail.com)
 
 ### 💻 &nbsp;About Me 
-I'm a software developer who is passionate about blockchain, backend development, and machine learning.
+A passionate Rust developer 🦀, I enjoy dedicating my time to open source projects and actively contributing to the Rust community.
 
 ### 🛠️ Languages and Tools
 [![Rust](https://img.shields.io/badge/Rust-gray?logo=rust&logoColor=black)](https://www.rust-lang.org/)
