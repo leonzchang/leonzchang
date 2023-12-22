@@ -10,7 +10,7 @@ A passionate Rust developer 🦀, I enjoy dedicating my time to open source proj
 [![React](https://img.shields.io/badge/React-gray?logo=react&logoColor=blue)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-gray?logo=nodedotjs&logoColor=darkgreen)](https://nodejs.org/en/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-gray?logo=kubernetes&logoColor=blue)]([https://www.docker.com/](https://kubernetes.io/))
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-gray?logo=kubernetes&logoColor=blue)](https://kubernetes.io/)
 
 
 
